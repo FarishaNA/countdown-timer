@@ -23,24 +23,19 @@ A simple countdown timer built with HTML, CSS, and JavaScript. This application 
    git clone https://github.com/FarishNA/countdown-timer.git
 Navigate to the Project Directory: Open your terminal or command prompt and run the following command:
 
-bash
-Copy code
-cd countdown-timer
+```bash cd countdown-timer ```
 **Open index.html**: Open index.html in your web browser.
 
 ## Usage
 
-**Select a Date and Time**: Use the date and time input field to choose your target date.
-**Start the Countdown**: Click the Start button to begin the countdown.
-**Reset the Timer**: Click the Reset button to clear the timer and input field.
+- **Select a Date and Time**: Use the date and time input field to choose your target date.
+- **Start the Countdown**: Click the Start button to begin the countdown.
+- **Reset the Timer**: Click the Reset button to clear the timer and input field.
 
 ## Technologies Used
-**HTML5**: For structuring the content.
-**CSS3**: For styling the timer and layout.
-**JavaScript**: For countdown functionality and user interactions.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling the timer and layout.
+- **JavaScript**: For countdown functionality and user interactions.
 
 ## Author
 Farisha - GitHub Profile
