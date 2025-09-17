@@ -26,21 +26,25 @@ Navigate to the Project Directory: Open your terminal or command prompt and run 
 bash
 Copy code
 cd countdown-timer
-Open index.html: Open index.html in your web browser.
+**Open index.html**: Open index.html in your web browser.
 
-Usage
-Select a Date and Time: Use the date and time input field to choose your target date.
-Start the Countdown: Click the Start button to begin the countdown.
-Reset the Timer: Click the Reset button to clear the timer and input field.
-Technologies Used
-HTML5: For structuring the content.
-CSS3: For styling the timer and layout.
-JavaScript: For countdown functionality and user interactions.
-License
+##Usage
+
+**Select a Date and Time**: Use the date and time input field to choose your target date.
+**Start the Countdown**: Click the Start button to begin the countdown.
+**Reset the Timer**: Click the Reset button to clear the timer and input field.
+
+##Technologies Used
+**HTML5**: For structuring the content.
+**CSS3**: For styling the timer and layout.
+**JavaScript**: For countdown functionality and user interactions.
+
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
+##Author
 Farisha - GitHub Profile
-Acknowledgments
+
+##Acknowledgments
 Inspired by various countdown timer tutorials available online.
 Special thanks to the developers of the libraries used.
